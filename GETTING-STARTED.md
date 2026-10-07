@@ -86,6 +86,16 @@ If you'd rather type directly, open these files (in Claude Code, or any text edi
 
 Be specific. "I run a business" is useless. "I run a 4-person marketing agency in Austin, most revenue from retainer clients, trying to land bigger accounts" is gold. The detail is the whole point.
 
+### Check it landed
+
+Before you move on, ask it something only your business could answer:
+
+> What are the steps in [one of your regular processes], and where does it usually stall?
+
+Your own process should come back at you, in your words. That's the moment it stops being a chatbot.
+
+If the answer is wrong or thin, correct it and say "update the file." Fixing it this way is how it gets right, and it shows you that editing the folder is how you change what it knows.
+
 ### One rule that matters
 
 Don't put anything in here you wouldn't want a stranger reading, unless you keep this folder private (it is private by default on your own computer). The folder lives on your machine. It only goes public if you choose to upload it somewhere public. For most people, it just sits on your computer and stays yours.
@@ -106,6 +116,8 @@ Now it's an assistant. Talk to it like one. Some things to try:
 **Log decisions.** When you make a real call, say "log this decision." It writes it to `decisions/log.md` with the reasoning, so future-you knows why.
 
 **Build skills as you go.** The first time you do a repeatable task (a weekly review, a follow-up email, a content draft), do it once. The second time, say "turn this into a skill so we do it the same way every time." Now it's a reusable recipe. There's one example skill in `.claude/skills/weekly-review` to show you the shape.
+
+**Put your best skill on a schedule.** This is the step most people skip, and it decides whether any of this lasts. A skill you have to remember to run is just a saved prompt, and it will be forgotten within a fortnight. Pick the one you use most and ask Claude Code: "Set this skill to run every weekday at 7am." It walks you through the options. Then the work is waiting for you before you sit down, without you doing anything.
 
 ---
 
