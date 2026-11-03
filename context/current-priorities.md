@@ -44,5 +44,12 @@ Weak spot: Getting a consistent high-protein breakfast
 Guardrail: If my lifts start dropping, ease up on the deficit
 
 ## Saving money
+
+Baseline (as of November 2026):
+- Take-home: about $5,000-$6,000 a month (electrical plus bartending)
+- Food (groceries plus eating out): about $700-$900 a month
+
+Reality check: food alone can't cover the target. Running the eating plan on groceries should cost about $350-$450 a month, which saves about $300-$500. The remaining $500-$1,000 has to come from other spending.
+
 - Eat out and buy food less, using the eating plan
 - Go to one less dinner out with Sabrina each week
