@@ -8,6 +8,7 @@ _Status: starting. Plan set November 3, 2026._
 
 ## Starting point
 - Shooting in auto
+- Posting about once a week
 - Edit photos in Lightroom, videos in Instagram's free editing app
 - Gear: Olympus E-500 (shoot RAW), iPhone 17 (daily composition practice)
 - Interests: hiking and travel shots, content creation, color grading
@@ -30,6 +31,14 @@ Each Thursday session (after workout and meal prep): about 30 minutes shooting, 
 Daily: one iPhone photo practicing composition (rule of thirds, leading lines, framing).
 
 ## Posting rhythm (2-3 a week)
+
+Currently posting about once a week. Ramp up:
+
+| Weeks | Posts a week |
+|---|---|
+| 1-4 | 2 |
+| 5+ | 3 when there's material, never fewer than 2 |
+
 - Shoot on Saturday outings, hikes, and Thursday sessions
 - Batch-edit on Thursday, and schedule the week's posts in Instagram
 - Keep a few edited photos in reserve for busy weeks
