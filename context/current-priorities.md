@@ -63,7 +63,16 @@ Monthly spending:
 | Subscriptions | $150 | Audit |
 | **Total** | **about $2,455-$2,705** | |
 
-That leaves about $2,300-$3,500 a month that isn't accounted for.
+Current automatic saving and investing:
+
+| Account | Weekly | Monthly (about) | Yearly |
+|---|---|---|---|
+| Roth IRA | $135 | $585 | $7,020 |
+| High-yield savings | $200 | $867 | $10,400 |
+| Brokerage | $100 | $433 | $5,200 |
+| **Total** | **$435** | **about $1,885** | **$22,620** |
+
+After spending and saving, about $400-$1,600 a month is still unaccounted for. It's probably date nights, gifts, clothes, the gym, and other spending that wasn't listed.
 
 Reality check: food alone can't cover the target. Running the eating plan on groceries should cost about $350-$450 a month, which saves about $300-$500. The remaining $500-$1,000 has to come from other spending.
 
