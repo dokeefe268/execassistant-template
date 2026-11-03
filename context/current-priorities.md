@@ -49,6 +49,22 @@ Baseline (as of November 2026):
 - Take-home: about $5,000-$6,000 a month (electrical plus bartending)
 - Food (groceries plus eating out): about $700-$900 a month
 
+Monthly spending:
+
+| Item | Amount | Type |
+|---|---|---|
+| Car payment | $470 | Fixed |
+| Car insurance | $335 | Fixed (can shop around) |
+| Student loan | $100 | Fixed |
+| Gas | $400-$450 | Hard to cut |
+| Food (groceries plus eating out) | $700-$900 | Main lever |
+| Gas station snacks and food | $100 | Cuttable |
+| Going out with friends | $200 | Trimmable |
+| Subscriptions | $150 | Audit |
+| **Total** | **about $2,455-$2,705** | |
+
+That leaves about $2,300-$3,500 a month that isn't accounted for.
+
 Reality check: food alone can't cover the target. Running the eating plan on groceries should cost about $350-$450 a month, which saves about $300-$500. The remaining $500-$1,000 has to come from other spending.
 
 - Eat out and buy food less, using the eating plan
