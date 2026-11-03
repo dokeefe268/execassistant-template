@@ -8,7 +8,7 @@ This second brain is mainly for my personal life: health, routines, relationship
 
 | Day | Daytime | Evening |
 | --- | --- | --- |
-| Monday | Electrical work, 7-3 | Class, 4:30-6 |
+| Monday | Electrical work, 7-3 | Apprenticeship class, 4:30-6 (until late May, off in summer) |
 | Tuesday | Electrical work, 7-3 | Bar shift, 4pm-midnight |
 | Wednesday | Electrical work, 7-3 | Time with my girlfriend, gym together |
 | Thursday | Electrical work, 7-3 | Reset night (see below) |
