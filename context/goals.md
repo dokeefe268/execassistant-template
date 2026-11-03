@@ -15,7 +15,7 @@ Baseline check-in, November 3, 2026: 176 pounds (no change since October), 5K in
 - Save an extra $1,000-$1,500 a month by spending less
 
 ## Fun
-- Learn photography
+- Learn photography: shoot fully manual and post 2-3 times a week (plan in projects/photography/README.md)
 
 ## NexGen Vending
 - Get one vending machine location in the next 6 months, by about May 2027
