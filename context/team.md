@@ -22,6 +22,8 @@ My business partner at NexGen Vending.
 
 ## Key dates
 
+All of these are on Google Calendar as yearly events with reminders.
+
 | Date | What |
 |---|---|
 | April 2 | Mom's birthday |

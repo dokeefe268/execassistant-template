@@ -42,17 +42,18 @@ Apply these whenever you write anything I or someone else will read.
 
 | Tool | Use it for | Status |
 |---|---|---|
-| Google Calendar | schedule, protecting routine and relationship time, yearly birthday events | Installed, not connected yet |
-| Gmail | inbox triage, drafting replies (draft-only) | Installed, not connected yet |
-| Google Drive | finding and saving files | Installed, not connected yet |
+| Google Calendar | schedule, protecting routine and relationship time, yearly birthday events | Connected |
+| Gmail | inbox triage, drafting replies (draft-only) | Connected |
+| Google Drive | finding and saving files | Connected |
 | Web search | gear, recipes, training, travel spots | Built in |
 
-Once Google Calendar is connected: add every date in `context/team.md` as a yearly event with reminders 1 week before and the morning of.
+Every date in `context/team.md` is on Google Calendar as a yearly all-day event, with popups 1 week before (9am) and the morning of (9am). When a new date is added to `team.md`, add it to the calendar the same way.
 
 ## Reminders (scheduled tasks)
 
 | Task | When | How it reaches Daniel |
 |---|---|---|
+| Birthdays and anniversaries | Yearly | Google Calendar popups, 1 week before and morning of |
 | Sunday weekly review | Sundays about 8pm ET | Runs inside the main second brain session |
 | Sunday review push nudge | Sundays 8pm ET | Phone push notification |
 | Mike and Mellissa birthday reminder | Wed Nov 4, 2026, 6:31pm ET (one-time) | Phone push notification |
