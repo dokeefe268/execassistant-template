@@ -8,7 +8,7 @@ _Status: starting. Plan set November 3, 2026._
 
 ## Starting point
 - Shooting in auto
-- Posting about once a week
+- Posting about once a week now, but I was posting 2-3 a week before, so this is getting back to a rhythm I've already had
 - Edit photos in Lightroom, videos in Instagram's free editing app
 - Gear: Olympus E-500 (shoot RAW), iPhone 17 (daily composition practice)
 - Interests: hiking and travel shots, content creation, color grading
@@ -32,12 +32,7 @@ Daily: one iPhone photo practicing composition (rule of thirds, leading lines, f
 
 ## Posting rhythm (2-3 a week)
 
-Currently posting about once a week. Ramp up:
-
-| Weeks | Posts a week |
-|---|---|
-| 1-4 | 2 |
-| 5+ | 3 when there's material, never fewer than 2 |
+No ramp needed: start at 2-3 a week now. Floor is 2. Build a reserve of 3-4 edited photos in the first couple of Thursday sessions so a busy week doesn't break the streak.
 
 - Shoot on Saturday outings, hikes, and Thursday sessions
 - Batch-edit on Thursday, and schedule the week's posts in Instagram
