@@ -42,6 +42,7 @@ The old problem: no set schedule, I trained whenever I could fit it in, and I so
 | Sunday | Upper B | Morning, before the 10am bar shift |
 
 - 4 lifts (upper/lower split) and 2 runs a week.
+- No injuries, health conditions, or physical limits (as of November 2026).
 - Missed session during the week = make it up Saturday.
 
 ## Thursday reset night
