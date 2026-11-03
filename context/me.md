@@ -1,18 +1,41 @@
-# [Your Name]
+# Me
 
-## Role
-[Your role and what you focus on. Example: "Founder of [Company]. I set vision, own the funnel, and stay close to product."]
+I'm Daniel, 23, from Morganville, NJ (Monmouth County). I live at home.
 
-## Location
-[City, country, time zone.]
+This second brain is mainly for my personal life: health, routines, relationships, money, and using my free time well. Work and business are background unless I bring them up.
 
-## Contact
-[your email]
+## My week
 
-## How I work
-- [How you spend your time]
-- [What you own vs. what you delegate]
-- [Anything an assistant should know about your working style]
+| Day | Daytime | Evening |
+| --- | --- | --- |
+| Monday | Electrical work, 7-3 | Class, 4:30-6 |
+| Tuesday | Electrical work, 7-3 | Bar shift, 4pm-midnight |
+| Wednesday | Electrical work, 7-3 | Time with my girlfriend, gym together |
+| Thursday | Electrical work, 7-3 | Reset night (see below) |
+| Friday | Electrical work, 7-3 | Date night or family time |
+| Saturday | No set plan | Usually family, my girlfriend, and her family |
+| Sunday | Gym or run, then bar shift, 10-4:30 | Food and a drink with friends, or video games |
 
-## North Star
-[The one outcome everything serves.]
+- I wake up at 5:30 on weekdays, and sometimes at 4:30 to get to the gym.
+- On Sundays I get up around 7-7:30.
+- I fit homework into free moments.
+- Tuesday's late shift followed by a 5:30 wake-up makes Wednesday a short-sleep day.
+
+## Thursday reset night
+
+Thursday is my only open weeknight, and I want to stop wasting it.
+
+1. Lift or run/walk
+2. Meal prep
+3. Something fun for the rest of the night
+
+If the night runs short, the workout and meal prep come first.
+
+## Fun and hobbies
+
+- **Photography:** I want to learn photography. I'm interested in hiking and travel shots, content creation, and color grading, and I run a travel and photography Instagram account.
+- **Camera gear:** I have an Olympus E-500 and an iPhone 17.
+- **Starting point:** Use the E-500 to learn aperture, shutter speed, and ISO. Shoot RAW for color grading practice. Use the iPhone every day to practice composition.
+- **Practice time:** Thursday's fun time can go to photography after my workout and meal prep.
+- **Other hobbies:** Snowboarding, hiking, fantasy football, style, and video games.
+- **Travel:** I like experiences and local spots more than tourist sightseeing.

@@ -1,27 +1,13 @@
-# [Company]
+# Work
 
-## What we are
-[One or two sentences. What you do and for whom.]
+## Electrical
+I work in the electrical trade Monday to Friday, 7-3. This is my main job.
 
-## Stage
-[Where the business is. Example: "Founded ~2 years ago. Currently figuring out our core vertical."]
+## Bartending
+I've bartended for five years across high-volume, fine dining, and upscale sports bar settings. I currently work at a three-story Nashville-style bar in Red Bank, NJ, on Tuesday nights and Sunday days.
 
-## Offers and pricing
+## NexGen Vending
+My smart vending business with my partner, Brady. We place cashless machines along the Route 34 corridor in Monmouth and Ocean counties. It comes after my personal goals for now. Goal: get one vending machine location in the next 6 months.
 
-| Offer | Price |
-|---|---|
-| [Offer 1] | [price] |
-| [Offer 2] | [price] |
-
-## How engagements typically start
-[Your typical first step with a new customer.]
-
-## Current and recent clients
-- [Client or "none yet"]
-
-## Funnel math (rough)
-- Current: [where you are]
-- Target: [where you want to be]
-
-## Daily tools
-- [The tools you live in]
+## On hold
+Waxing and sharpening snowboards as a side hustle. I'm not prioritizing this right now.

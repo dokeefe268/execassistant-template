@@ -1,12 +1,48 @@
-# Current Priorities
+# Current priorities
 
-_Last updated: [date]_
+Next 30 days, from November 3, 2026.
 
-Focus areas for roughly the next 30 days:
+## In order
+1. Lock-in and fitness
+2. NexGen Vending
 
-1. **[Priority one.]** [Why it matters.]
-2. **[Priority two.]** [Why it matters.]
-3. **[Priority three.]** [Why it matters.]
+Snowboard tuning is not a priority right now.
 
-## How to use this file
-Update whenever focus shifts. Old priorities don't need to be preserved here; if the shift was meaningful, it goes in the decision log.
+## What a win looks like
+- Lose 4-6 pounds, on the way to my 10-pound lock-in goal
+- Run a consistent 27-minute 5K
+- Follow a consistent eating plan
+- Save an extra $1,000-$1,500 a month
+- Use Thursday as my reset night
+
+## Eating plan
+Goal: support overall health while building or maintaining muscle.
+
+Daily targets:
+- About 2,200 calories
+- 150-160g of protein, spread across the day
+- About 30g of fiber
+- Vegetables or fruit at every meal
+
+Typical day (about 2,150 calories and 155g of protein):
+- **Breakfast (about 480 calories, 27g protein):** 3 eggs, 2 slices of whole-grain toast, a piece of fruit, and water
+- **Lunch (about 600 calories, 45g protein):** Chicken, rice or potatoes, and vegetables, made during Thursday meal prep
+- **Snack (about 320 calories, 20g protein):** Two Chobani yogurts with berries
+- **Snack (about 160 calories, 25g protein):** Muscle Milk, using the amounts on my bottle's label
+- **Dinner (about 600 calories, 40g protein):** Lean protein, a potato or whole grain, and at least two handfuls of vegetables
+
+Habits:
+- Have fish, such as salmon, about twice a week
+- Choose chicken, fish, eggs, Greek yogurt, beans, and lean beef most often
+- Treat deli subs, takeout, and fried food as occasional meals
+- Pack a meal for Tuesday bar shifts
+- Keep drinks and desserts occasional, and log them
+- Use a tablespoon of peanut butter as a flexible add-on when calories allow
+
+Weak spot: Getting a consistent high-protein breakfast
+
+Guardrail: If my lifts start dropping, ease up on the deficit
+
+## Saving money
+- Eat out and buy food less, using the eating plan
+- Go to one less dinner out with Sabrina each week

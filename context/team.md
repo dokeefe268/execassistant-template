@@ -1,17 +1,16 @@
-# Team
+# My people
 
-## People
+## Sabrina
+My girlfriend. Our anniversary is November 2. She works a rotating schedule of three 12-hour shifts. We usually spend Wednesdays together, including the gym. Friday date night is important to me.
 
-| Name | Role | Loop in for |
-|---|---|---|
-| [You] | [role] | [what] |
-| [Teammate] | [role] | [what] |
+## Family
+Friday nights and Saturdays usually go to my family and Sabrina's family.
 
-## Communication
-- Primary: [channel]
+## Stephen
+My brother. I was the best man at his wedding.
 
-## Current pain point
-[Anything the team is currently struggling with that the assistant should surface proactively.]
+## Friends
+I sometimes get food and a drink with friends after Sunday shifts.
 
-## Hiring direction
-[Who you want to hire next and what has to be true first.]
+## Brady
+My business partner at NexGen Vending.
