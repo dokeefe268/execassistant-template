@@ -75,6 +75,15 @@ Current automatic saving and investing:
 
 After spending and saving, about $350-$1,600 a month is left. It stays in checking, minus date nights, gifts, and other unlisted spending. Idea: sweep the checking surplus into the high-yield account on a set schedule so it earns interest and doesn't get spent.
 
+Target: save $1,000-$1,500 a month **on top of** the $1,885 already automated, for about $2,900-$3,400 a month in total.
+
+Where the extra comes from:
+- Cuts below: about $500-$865
+- Moving the checking surplus into savings on purpose: about $350-$1,600
+- Together: about $850-$2,465. The target is reachable.
+
+How to lock it in: raise the weekly high-yield transfer from $200 to $430 (about +$1,000 a month). Do it once the food cuts are working, so checking doesn't run dry.
+
 Reality check: food alone can't cover the target. Running the eating plan on groceries should cost about $350-$450 a month, which saves about $300-$500. The remaining $500-$1,000 has to come from other spending.
 
 - Eat out and buy food less, using the eating plan
