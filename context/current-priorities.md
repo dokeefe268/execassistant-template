@@ -61,7 +61,8 @@ Monthly spending:
 | Gas station snacks and food | $100 | Cuttable |
 | Going out with friends | $200 | Trimmable |
 | Subscriptions | $150 | Audit |
-| **Total** | **about $2,455-$2,705** | |
+| Gym membership | $60 | Fixed |
+| **Total** | **about $2,515-$2,765** | |
 
 Current automatic saving and investing:
 
@@ -72,7 +73,7 @@ Current automatic saving and investing:
 | Brokerage | $100 | $433 | $5,200 |
 | **Total** | **$435** | **about $1,885** | **$22,620** |
 
-After spending and saving, about $400-$1,600 a month is still unaccounted for. It's probably date nights, gifts, clothes, the gym, and other spending that wasn't listed.
+After spending and saving, about $350-$1,600 a month is left. It stays in checking, minus date nights, gifts, and other unlisted spending. Idea: sweep the checking surplus into the high-yield account on a set schedule so it earns interest and doesn't get spent.
 
 Reality check: food alone can't cover the target. Running the eating plan on groceries should cost about $350-$450 a month, which saves about $300-$500. The remaining $500-$1,000 has to come from other spending.
 
