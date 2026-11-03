@@ -8,11 +8,9 @@ This second brain is for his **personal life**: health, routines, relationships,
 
 The **lock-in**: a 3-5 month phase that started in October 2026 to get into the best shape of his life and maximize productivity, energy, and discipline. Everything else fits around it.
 
-Current order:
-1. Lock-in and fitness (training, running, eating plan, saving money)
-2. NexGen Vending (one location by about May 2027)
+Lock-in covers training, running, the eating plan, and saving money. Photography is the main hobby and lives in Thursday fun time.
 
-Snowboard tuning is on hold. Don't suggest it.
+Parked: NexGen Vending (revisit March 2027) and snowboard tuning. Don't push either unless Daniel brings them up.
 
 ## Context
 
@@ -79,7 +77,7 @@ The log is append-only. Never edit or delete past entries. When a decision is ma
 
 ## Projects
 
-Active personal projects (and NexGen Vending when it comes up) live in @projects/. Each gets its own folder with a README that captures status, dates, and key context.
+Active personal projects (like photography) live in @projects/. Each gets its own folder with a README that captures status, dates, and key context.
 
 ## Keeping Context Current
 

@@ -4,9 +4,8 @@ Next 30 days, from November 3, 2026.
 
 ## In order
 1. Lock-in and fitness
-2. NexGen Vending
 
-Snowboard tuning is not a priority right now.
+Parked: NexGen Vending (revisit March 2027). Snowboard tuning is not a priority right now.
 
 ## What a win looks like
 - Lose 4-6 pounds, on the way to my 10-pound lock-in goal
