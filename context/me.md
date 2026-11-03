@@ -1,6 +1,6 @@
 # Me
 
-I'm Daniel, 23, from Morganville, NJ (Monmouth County). I live at home.
+I'm Daniel, 23, from Morganville, NJ (Monmouth County). I live at home. My birthday is August 19.
 
 This second brain is mainly for my personal life: health, routines, relationships, money, and using my free time well. Work and business are background unless I bring them up.
 

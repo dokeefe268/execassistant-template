@@ -30,6 +30,7 @@ All of these are on Google Calendar as yearly events with reminders.
 | June 11 | Sabrina's birthday |
 | June 22 | Dad's birthday |
 | July 4 | Tess's birthday (my sister) |
+| August 19 | My birthday |
 | August 22 | Stephen and Sophia's wedding anniversary |
 | October 7 | Sophia's birthday (Stephen's wife) |
 | October 9 | Stephen's birthday |
