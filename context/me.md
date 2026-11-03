@@ -21,6 +21,23 @@ This second brain is mainly for my personal life: health, routines, relationship
 - I fit homework into free moments.
 - Tuesday's late shift followed by a 5:30 wake-up makes Wednesday a short-sleep day.
 
+## Training week
+
+The old problem: no set schedule, I trained whenever I could fit it in, and I sometimes missed run days. This is the fixed week.
+
+| Day | Session | When |
+| --- | --- | --- |
+| Monday | Upper A | 4:30am, before work |
+| Tuesday | Rest | Bar shift |
+| Wednesday | Lower A | Evening, with Sabrina |
+| Thursday | Run | Reset night, before meal prep |
+| Friday | Lower B | 4:30am, before work (Thursday is a chill night, so early bed) |
+| Saturday | Run | Flexible. Also the make-up day for anything missed |
+| Sunday | Upper B | Morning, before the 10am bar shift |
+
+- 4 lifts (upper/lower split) and 2 runs a week.
+- Missed session during the week = make it up Saturday.
+
 ## Thursday reset night
 
 Thursday is my only open weeknight, and I want to stop wasting it.
