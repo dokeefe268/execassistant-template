@@ -21,6 +21,12 @@ This second brain is mainly for my personal life: health, routines, relationship
 - I fit homework into free moments.
 - Tuesday's late shift followed by a 5:30 wake-up makes Wednesday a short-sleep day.
 
+## Sleep
+- Usual bedtime: 9-10pm most nights.
+- Tuesday: bed around 1-2am after the bar shift, so only about 3.5-4.5 hours before Wednesday's 5:30 wake-up.
+- Before 4:30am lift days (Sunday night and Thursday night), aim for 9pm. That gets about 7.5 hours.
+- Wednesday night: get to bed early to recover from Tuesday.
+
 ## Training week
 
 The old problem: no set schedule, I trained whenever I could fit it in, and I sometimes missed run days. This is the fixed week.
