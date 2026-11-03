@@ -9,8 +9,8 @@ Friday nights and Saturdays usually go to my family and Sabrina's family.
 ## Stephen
 My brother. I was the best man at his wedding. His birthday is October 9. His wife is Sophia (birthday October 7). Their wedding anniversary is August 22.
 
-## Sister
-Birthday July 4. (Name to fill in.)
+## Tess
+My sister. Birthday July 4.
 
 ## Friends
 I sometimes get food and a drink with friends after Sunday shifts. Who comes rotates, but it's usually some of: Andrew, Ford, Brandon, Christian, Mellissa, and Sabrina.
@@ -27,11 +27,11 @@ My business partner at NexGen Vending.
 | April 2 | Mom's birthday |
 | June 11 | Sabrina's birthday |
 | June 22 | Dad's birthday |
-| July 4 | My sister's birthday |
+| July 4 | Tess's birthday (my sister) |
 | August 22 | Stephen and Sophia's wedding anniversary |
 | October 7 | Sophia's birthday (Stephen's wife) |
 | October 9 | Stephen's birthday |
 | November 2 | Anniversary with Sabrina |
 | November 5 | Mike and Mellissa's birthday (they're twins) |
 
-To fill in later: Sabrina's family.
+Sabrina has two sisters and her parents. I don't know their birthdays yet. Worth getting quietly from Sabrina so I don't miss them.
