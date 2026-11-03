@@ -4,6 +4,9 @@
 A 3-5 month phase that started in October 2026. The aim is to get into the best shape of my life and maximize productivity, energy, and discipline.
 
 - Lose 10 pounds, from 176 to about 166
+
+Baseline check-in, November 3, 2026: 176 pounds (no change since October), 5K in 32 minutes.
+
 - Get lean around 165 pounds with visible abs while building muscle
 - Run a consistent 27-minute 5K, then 3 miles in about 25 minutes
 - Train an upper/lower split 4 days a week and run more
