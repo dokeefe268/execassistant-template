@@ -33,7 +33,12 @@ Ask Daniel for anything you can't pull yourself. Ask for all of it in one messag
 | Money | Food spent, gas station snacks, going out, anything unusual, and what moved to savings |
 | Relationships | Wednesday and Friday with Sabrina happened? |
 
-If Google Calendar is connected, check it for the week first so you only ask about what it can't show.
+Before asking, pull what you can:
+- **Strava** (if connected): runs and workouts this week, distances, and best 5K or pace. Don't ask for run numbers Strava already has.
+- **Google Calendar**: anything that changed the week (events over training or reset time).
+- **MyFitnessPal** has no connector. Ask Daniel for a screenshot of the MyFitnessPal weekly nutrition summary (calories and protein by day) and read the numbers from it.
+
+Only ask about what these can't show.
 
 ### Step 2: Score against targets
 Compare to the 30-day targets and the previous review:

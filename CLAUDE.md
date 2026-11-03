@@ -45,6 +45,8 @@ Apply these whenever you write anything I or someone else will read.
 | Google Calendar | schedule, protecting routine and relationship time, yearly birthday events | Connected |
 | Gmail | inbox triage, drafting replies (draft-only) | Connected |
 | Google Drive | finding and saving files | Connected |
+| Strava | runs and workouts for the Sunday review (count, 5K times, pace trend) | To connect |
+| MyFitnessPal | food log (calories, protein) | No connector exists. Daniel shares a screenshot of the weekly summary instead |
 | Web search | gear, recipes, training, travel spots | Built in |
 
 Every date in `context/team.md` is on Google Calendar as a yearly all-day event, with popups 1 week before (9am) and the morning of (9am). When a new date is added to `team.md`, add it to the calendar the same way.
