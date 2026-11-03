@@ -40,11 +40,24 @@ Apply these whenever you write anything I or someone else will read.
 
 ## Tool Integrations
 
-| Tool | Use it for |
-|---|---|
-| Gmail | inbox triage, drafting replies |
-| Google Calendar | schedule, protecting routine and relationship time |
-| [Research] | web search (gear, recipes, training, travel spots) |
+| Tool | Use it for | Status |
+|---|---|---|
+| Google Calendar | schedule, protecting routine and relationship time, yearly birthday events | Installed, not connected yet |
+| Gmail | inbox triage, drafting replies (draft-only) | Installed, not connected yet |
+| Google Drive | finding and saving files | Installed, not connected yet |
+| Web search | gear, recipes, training, travel spots | Built in |
+
+Once Google Calendar is connected: add every date in `context/team.md` as a yearly event with reminders 1 week before and the morning of.
+
+## Reminders (scheduled tasks)
+
+| Task | When | How it reaches Daniel |
+|---|---|---|
+| Sunday weekly review | Sundays about 8pm ET | Runs inside the main second brain session |
+| Sunday review push nudge | Sundays 8pm ET | Phone push notification |
+| Mike and Mellissa birthday reminder | Wed Nov 4, 2026, 6:31pm ET (one-time) | Phone push notification |
+
+If the main session changes, move the Sunday weekly review task to the new session.
 
 ## Skills
 
