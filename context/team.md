@@ -15,7 +15,7 @@ Birthday July 4. (Name to fill in.)
 ## Friends
 I sometimes get food and a drink with friends after Sunday shifts. Who comes rotates, but it's usually some of: Andrew, Ford, Brandon, Christian, Mellissa, and Sabrina.
 
-Best friends: Mike and Mellissa.
+Best friends: Mike and Mellissa (twins, birthday November 5).
 
 ## Brady
 My business partner at NexGen Vending.
@@ -24,7 +24,7 @@ My business partner at NexGen Vending.
 
 | Date | What |
 |---|---|
-| April 2 | To confirm (possibly Mom's birthday) |
+| April 2 | Mom's birthday |
 | June 11 | Sabrina's birthday |
 | June 22 | Dad's birthday |
 | July 4 | My sister's birthday |
@@ -32,6 +32,6 @@ My business partner at NexGen Vending.
 | October 7 | Sophia's birthday (Stephen's wife) |
 | October 9 | Stephen's birthday |
 | November 2 | Anniversary with Sabrina |
-| November 5 | Mike and Mellissa (to confirm: both birthdays, or an anniversary) |
+| November 5 | Mike and Mellissa's birthday (they're twins) |
 
 To fill in later: Sabrina's family.
