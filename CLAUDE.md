@@ -45,7 +45,7 @@ Apply these whenever you write anything I or someone else will read.
 | Google Calendar | schedule, protecting routine and relationship time, yearly birthday events | Connected |
 | Gmail | inbox triage, drafting replies (draft-only) | Connected |
 | Google Drive | finding and saving files | Connected |
-| Strava | runs and workouts for the Sunday review (count, 5K times, pace trend) | To connect |
+| Strava | runs for the Sunday review | Can't connect. Daniel reports runs and 5K times himself (a Strava screenshot works) |
 | MyFitnessPal | food log (calories, protein) | No connector exists. Daniel shares a screenshot of the weekly summary instead |
 | Web search | gear, recipes, training, travel spots | Built in |
 

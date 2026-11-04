@@ -34,7 +34,7 @@ Ask Daniel for anything you can't pull yourself. Ask for all of it in one messag
 | Relationships | Wednesday and Friday with Sabrina happened? |
 
 Before asking, pull what you can:
-- **Strava** (if connected): runs and workouts this week, distances, and best 5K or pace. Don't ask for run numbers Strava already has.
+- **Strava** can't be connected. Ask Daniel for runs done and best 5K time, or a screenshot of the week in Strava.
 - **Google Calendar**: anything that changed the week (events over training or reset time).
 - **MyFitnessPal** has no connector. Ask Daniel for a screenshot of the MyFitnessPal weekly nutrition summary (calories and protein by day) and read the numbers from it.
 
